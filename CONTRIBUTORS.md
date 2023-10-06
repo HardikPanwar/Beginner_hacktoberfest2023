@@ -42,4 +42,9 @@
 - Academic: CSIT Undergraduate at ITER
 - GitHub: [Imbiber](https://github.com/Imbiber)
 
+### Name: Aakash Benarjee 
+
+- Place: Indore , Madhyaa Pradesh
+- Academic: CSIT Undergraduate at CDGI
+- GitHub: [AakashCpp](https://github.com/AakashCpp)
 
