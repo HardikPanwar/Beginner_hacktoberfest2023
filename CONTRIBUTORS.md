@@ -41,3 +41,9 @@
 - Place: Ranchi, Jharkhand
 - Academic: CSIT Undergraduate at ITER
 - GitHub: [Imbiber](https://github.com/Imbiber)
+
+ ### Name: Anannya Guchait
+
+- Place: West Bengal, India
+- Academic: CSE Undergraduate at Academy of Technology.
+- GitHub: [anannya07](https://github.com/anannya07)
