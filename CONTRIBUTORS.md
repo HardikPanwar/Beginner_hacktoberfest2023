@@ -42,8 +42,4 @@
 - Academic: CSIT Undergraduate at ITER
 - GitHub: [Imbiber](https://github.com/Imbiber)
 
-### Name: Nishant Gaurav
 
-- Place: Indore , Madhya Pradesh
-- Academic: CSIT Undergraduate at CDGI
-- GitHub: [AakashCpp](https://github.com/AakashCpp)
